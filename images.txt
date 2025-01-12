@@ -11,4 +11,5 @@
 # golang:1.21
 
 # hashicorp/consul:1.17
-messense/aliyundrive-webdav:latest
+# messense/aliyundrive-webdav:latest
+minio/minio
