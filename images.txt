@@ -12,4 +12,5 @@
 
 # hashicorp/consul:1.17
 # messense/aliyundrive-webdav:latest
-minio/minio
+# minio/minio
+jeessy/ddns-go
