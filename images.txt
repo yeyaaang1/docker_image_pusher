@@ -13,4 +13,5 @@
 # hashicorp/consul:1.17
 # messense/aliyundrive-webdav:latest
 # minio/minio
-jeessy/ddns-go
+# jeessy/ddns-go
+ubuntu:latest
