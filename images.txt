@@ -15,4 +15,5 @@
 # minio/minio
 # jeessy/ddns-go
 # ubuntu:latest
-xhofe/alist:latest
+# xhofe/alist:latest
+influxdb:latest
