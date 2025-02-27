@@ -16,4 +16,4 @@
 # jeessy/ddns-go
 # ubuntu:latest
 # xhofe/alist:latest
-influxdb:latest
+influxdb:1.11
