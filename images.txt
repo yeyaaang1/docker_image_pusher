@@ -4,7 +4,7 @@
 # xhofe/alist:latest
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
-# golang:1.22
+golang:1.23
 # openjdk:11
 # alpine:latest
 # python:3.7
@@ -16,4 +16,4 @@
 # jeessy/ddns-go
 # ubuntu:latest
 # xhofe/alist:latest
-influxdb:1.11
+# influxdb:1.11
