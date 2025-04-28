@@ -4,11 +4,12 @@
 # xhofe/alist:latest
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
-golang:1.23
+# golang:1.23
 # openjdk:11
 # alpine:latest
 # python:3.7
 # golang:1.21
+golang:1.19
 
 # hashicorp/consul:1.17
 # messense/aliyundrive-webdav:latest
