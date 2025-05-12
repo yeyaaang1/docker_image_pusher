@@ -10,8 +10,8 @@
 # python:3.7
 # golang:1.21
 # golang:1.19
-# mysql:8
-snowdreamtech/frpc
+mysql:8.0
+# snowdreamtech/frpc
 
 # hashicorp/consul:1.17
 # messense/aliyundrive-webdav:latest
