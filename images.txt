@@ -21,4 +21,5 @@
 # xhofe/alist:latest
 # influxdb:1.11
 
-k8s.gcr.io/pause:3.1
+# k8s.gcr.io/pause:3.1
+xuxueli/xxl-job-admin
