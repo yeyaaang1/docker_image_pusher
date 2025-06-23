@@ -17,9 +17,10 @@
 # messense/aliyundrive-webdav:latest
 # minio/minio
 # jeessy/ddns-go
-ubuntu:24.04
+# ubuntu:24.04
 # xhofe/alist:latest
 # influxdb:1.11
 
 # k8s.gcr.io/pause:3.1
-xuxueli/xxl-job-admin:3.1.0
+# xuxueli/xxl-job-admin:3.1.0
+anolaxy/uniapp-cli
