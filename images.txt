@@ -6,7 +6,6 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 # golang:1.23
 # openjdk:11
-kdvolder/jdk8
 # alpine:latest
 # python:3.7
 # golang:1.21
@@ -24,4 +23,6 @@ kdvolder/jdk8
 
 # k8s.gcr.io/pause:3.1
 # xuxueli/xxl-job-admin:3.1.0
-anolaxy/uniapp-cli
+# anolaxy/uniapp-cli
+
+kdvolder/jdk8
