@@ -6,6 +6,7 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 # golang:1.23
 # openjdk:11
+kdvolder/jdk8
 # alpine:latest
 # python:3.7
 # golang:1.21
