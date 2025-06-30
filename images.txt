@@ -25,4 +25,6 @@
 # xuxueli/xxl-job-admin:3.1.0
 # anolaxy/uniapp-cli
 
-kdvolder/jdk8
+# kdvolder/jdk8
+
+certimate/certimate:latest
