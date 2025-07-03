@@ -27,4 +27,5 @@
 
 # kdvolder/jdk8
 
-certimate/certimate:latest
+# certimate/certimate:latest
+openlistteam/openlist:v4.0.7
