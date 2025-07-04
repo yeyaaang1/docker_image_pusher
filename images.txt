@@ -28,4 +28,6 @@
 # kdvolder/jdk8
 
 # certimate/certimate:latest
-openlistteam/openlist:v4.0.7
+# openlistteam/openlist:v4.0.7
+nginx:latest
+busybox:latest
