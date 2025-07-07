@@ -32,4 +32,4 @@
 # nginx:latest
 # busybox:latest
 
-quay.io/coreos/etcd:latest
+bitnami/etcd:latest
