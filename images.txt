@@ -32,4 +32,5 @@
 # nginx:latest
 # busybox:latest
 
-bitnami/etcd:latest
+# bitnami/etcd:latest
+quay.io/coreos/etcd:v3.6.1
