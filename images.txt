@@ -39,6 +39,7 @@
 # docker.io/library/node:16.14.0-buster
 # adguard/adguardhome
 # likeflyme/cloudbak
-busybox
+# busybox
+redis
 
 
