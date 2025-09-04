@@ -4,12 +4,11 @@
 # xhofe/alist:latest
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
-# golang:1.23
+
 # openjdk:11
 # alpine:latest
 # python:3.7
-# golang:1.21
-# golang:1.24.4
+
 # mysql:8.0.36
 # snowdreamtech/frpc
 # snowdreamtech/frps:latest
@@ -40,6 +39,9 @@
 # adguard/adguardhome
 # likeflyme/cloudbak
 # busybox
-redis
+# redis
 
-
+# golang:1.23
+# golang:1.21
+# golang:1.24.4
+golang:1.25.1
