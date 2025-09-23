@@ -5,6 +5,10 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
+--platform=linux/arm64 seleniarm/standalone-chromium
+# --platform=linux/amd64 seleniarm/standalone-chromium
+
+
 # openjdk:11
 # alpine:latest
 # python:3.7
@@ -45,4 +49,4 @@
 # golang:1.21
 # golang:1.24.4
 # golang:1.25.1
---platform=linux/amd64 seleniarm/standalone-chromium
+
