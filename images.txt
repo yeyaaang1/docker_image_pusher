@@ -5,7 +5,7 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
---platform=linux/arm64 fatedier/frpc:v0.65.0
+# --platform=linux/arm64 fatedier/frpc:v0.65.0
 
 # --platform=linux/arm64 seleniarm/standalone-chromium
 # --platform=linux/amd64 seleniarm/standalone-chromium
@@ -52,3 +52,4 @@
 # golang:1.24.4
 # golang:1.25.1
 
+python:3.9-slim
