@@ -52,4 +52,6 @@
 # golang:1.24.4
 # golang:1.25.1
 
-python:3.9-slim
+# python:3.9-slim
+
+onerahmet/openai-whisper-asr-webservice:latest
