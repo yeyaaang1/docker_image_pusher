@@ -22,7 +22,7 @@
 # hashicorp/consul:1.17
 # messense/aliyundrive-webdav:latest
 # minio/minio
-jeessy/ddns-go
+# jeessy/ddns-go
 # ubuntu:24.04
 # xhofe/alist:latest
 # influxdb:1.11
@@ -55,3 +55,5 @@ jeessy/ddns-go
 # python:3.9-slim
 
 # onerahmet/openai-whisper-asr-webservice:latest
+
+jumpserver/jms_all:latest
