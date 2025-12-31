@@ -56,4 +56,6 @@
 
 # onerahmet/openai-whisper-asr-webservice:latest
 
-jumpserver/jms_all:latest
+# jumpserver/jms_all:latest
+
+n8nio/n8n
