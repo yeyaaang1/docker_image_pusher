@@ -34,7 +34,7 @@
 # kdvolder/jdk8
 
 # certimate/certimate:latest
-# openlistteam/openlist:v4.0.7
+openlistteam/openlist:v4.1.8
 # nginx:latest
 # busybox:latest
 
@@ -58,4 +58,4 @@
 
 # jumpserver/jms_all:latest
 
-n8nio/n8n
+# n8nio/n8n
