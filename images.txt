@@ -4,7 +4,7 @@
 # xhofe/alist:latest
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
-
+--platform=linux/arm64 jeessy/ddns-go
 # --platform=linux/arm64 fatedier/frpc:v0.65.0
 
 # --platform=linux/arm64 seleniarm/standalone-chromium
