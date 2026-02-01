@@ -4,7 +4,7 @@
 # xhofe/alist:latest
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
---platform=linux/arm64 jeessy/ddns-go
+# --platform=linux/arm64 jeessy/ddns-go
 # --platform=linux/arm64 fatedier/frpc:v0.65.0
 
 # --platform=linux/arm64 seleniarm/standalone-chromium
@@ -16,7 +16,7 @@
 # python:3.7
 
 # mysql:8.0.36
-# snowdreamtech/frpc
+snowdreamtech/frpc:v0.67.0
 # snowdreamtech/frps:latest
 
 # hashicorp/consul:1.17
@@ -34,7 +34,7 @@
 # kdvolder/jdk8
 
 # certimate/certimate:latest
-openlistteam/openlist:v4.1.8
+# openlistteam/openlist:v4.1.8
 # nginx:latest
 # busybox:latest
 
