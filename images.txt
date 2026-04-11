@@ -59,9 +59,10 @@
 # jumpserver/jms_all:latest
 
 # nacos/nacos-server:v3.2.0
+nacos/nacos-server:v2.2.3
 
 # n8nio/n8n
 
 # qdrant/qdrant:v1.12.0
 
-redis:7.4-alpine
+# redis:7.4-alpine
