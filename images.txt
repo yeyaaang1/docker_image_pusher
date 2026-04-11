@@ -16,7 +16,7 @@
 # python:3.7
 
 # mysql:8.0.36
-snowdreamtech/frpc:v0.67.0
+# snowdreamtech/frpc:v0.67.0
 # snowdreamtech/frps:latest
 
 # hashicorp/consul:1.17
@@ -57,5 +57,7 @@ snowdreamtech/frpc:v0.67.0
 # onerahmet/openai-whisper-asr-webservice:latest
 
 # jumpserver/jms_all:latest
+
+nacos/nacos-server:v3.2.0
 
 # n8nio/n8n
