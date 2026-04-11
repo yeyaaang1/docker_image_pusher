@@ -62,4 +62,6 @@
 
 # n8nio/n8n
 
-qdrant/qdrant:v1.12.0
+# qdrant/qdrant:v1.12.0
+
+redis:7.4-alpine
