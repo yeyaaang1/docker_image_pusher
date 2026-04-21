@@ -11,6 +11,8 @@
 # --platform=linux/amd64 seleniarm/standalone-chromium
 
 
+foxhui/webai-2api:latest
+
 # openjdk:11
 # alpine:latest
 # python:3.7
@@ -59,7 +61,7 @@
 # jumpserver/jms_all:latest
 
 # nacos/nacos-server:v3.2.0
-nacos/nacos-server:v2.2.3
+# nacos/nacos-server:v2.2.3
 
 # n8nio/n8n
 
