@@ -10,7 +10,8 @@
 # --platform=linux/arm64 seleniarm/standalone-chromium
 # --platform=linux/amd64 seleniarm/standalone-chromium
 
-node:24-alpine
+node:24
+# node:24-alpine
 # ghcr.io/open-webui/open-webui:main
 
 # foxhui/webai-2api:latest
