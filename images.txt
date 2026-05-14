@@ -10,7 +10,7 @@
 # --platform=linux/arm64 seleniarm/standalone-chromium
 # --platform=linux/amd64 seleniarm/standalone-chromium
 
-paddlepaddle/paddle:3.0.0rc1
+# paddlepaddle/paddle:3.0.0rc1
 # ekkoye8888/hermes-web-ui
 # nousresearch/hermes-agent:v2026.4.30
 
@@ -60,6 +60,7 @@ paddlepaddle/paddle:3.0.0rc1
 # golang:1.21
 # golang:1.24.4
 # golang:1.25.1
+golang:1.22-alpine
 
 # python:3.9-slim
 
