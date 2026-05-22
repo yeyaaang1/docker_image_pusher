@@ -77,4 +77,6 @@
 
 # redis:7.4-alpine
 
-ghcr.io/ggml-org/llama.cpp:server-cuda
+# ghcr.io/ggml-org/llama.cpp:server-cuda
+
+gogost/gost:latest
