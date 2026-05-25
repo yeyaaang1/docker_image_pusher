@@ -79,4 +79,6 @@
 
 # ghcr.io/ggml-org/llama.cpp:server-cuda
 
-gogost/gost:latest
+# gogost/gost:latest
+
+ghcr.io/huggingface/text-embeddings-inference:1.5
