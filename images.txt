@@ -82,3 +82,4 @@
 # gogost/gost:latest
 
 ghcr.io/huggingface/text-embeddings-inference:1.5-puring
+ghcr.io/huggingface/text-embeddings-inference:1.5-cpu
