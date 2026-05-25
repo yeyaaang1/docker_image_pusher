@@ -81,4 +81,5 @@
 
 # gogost/gost:latest
 
-ghcr.io/huggingface/text-embeddings-inference:cpu-1.5
+# ghcr.io/huggingface/text-embeddings-inference:cpu-1.5
+qdrant/qdrant:latest
