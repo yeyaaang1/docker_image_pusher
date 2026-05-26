@@ -11,7 +11,7 @@
 # --platform=linux/amd64 seleniarm/standalone-chromium
 
 # paddlepaddle/paddle:3.0.0rc1
-# ekkoye8888/hermes-web-ui
+
 # nousresearch/hermes-agent:v2026.4.30
 
 # node:24
@@ -82,4 +82,6 @@
 # gogost/gost:latest
 
 # ghcr.io/huggingface/text-embeddings-inference:cpu-1.5
-qdrant/qdrant:latest
+# qdrant/qdrant:latest
+
+ekkoye8888/hermes-web-ui:latest
