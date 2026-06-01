@@ -78,10 +78,11 @@
 # redis:7.4-alpine
 
 # ghcr.io/ggml-org/llama.cpp:server-cuda
+ghcr.io/ggerganov/llama.cpp:server-vulkan
 
 # gogost/gost:latest
 
 # ghcr.io/huggingface/text-embeddings-inference:cpu-1.5
 # qdrant/qdrant:latest
 
-ekkoye8888/hermes-web-ui:v0.6.4
+# ekkoye8888/hermes-web-ui:v0.6.4
