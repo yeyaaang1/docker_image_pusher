@@ -78,7 +78,7 @@
 # redis:7.4-alpine
 
 # ghcr.io/ggml-org/llama.cpp:server-cuda
-ghcr.io/ggerganov/llama.cpp:server-vulkan
+ghcr.io/ggml-org/llama.cpp:server-vulkan
 
 # gogost/gost:latest
 
